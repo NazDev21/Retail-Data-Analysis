@@ -1,0 +1,23 @@
+product_id,product_name,product_category,manufacturing_city,size,color,sku,brand,material,base_cost,list_price,inventory_on_hand,rating,launch_date
+770487, Classic Crew Tee,apparel,Dallas,S, black ,24942603,Modern Harbor,Cotton,5.9,12.58,228,3.4,7/29/2023
+131244,Slim Fit Jeans,Apparel,Austin,8,Tan,22575562,EverTrail,Cotton,20.62,54.9,27,4.1,5/9/2025
+895667,Oversized Hoodie,Apparel,New York,S,Beige,31429110,Northline,Wool,-12.5,130.24,159,3.5,11/20/2024
+988662,Performance Leggings,Apparel,los angeles, m ,Pink,56164955,EverTrail,Blend,49.88,167.42,747,3.9,9/13/2023
+479201,Puffer Jacket,Apparel,New York,Standard,Green,87490893,Northline,Nylon,18.61,30.89,677,3.5,8/15/2024
+391476,Linen Button Shirt, Apparel ,New York,10,Silver,70855700,Luma,NULL,52.31,122.36,379,3.7,6/30/2024
+864544,Cotton Joggers,Apparel,Phoenix,Standard,Black,42857966,Luma,Cotton,16.42,-49.99,655,4.3,3/25/2024
+944151,Ribbed Tank Top,Apparel,Austin,11,Navy,52339391,Modern Harbor,Denim,34.49,56.99,580,4.7,10/6/2024
+249811,Runner Pro Sneaker,Footwear,Portland,[null],Gray,Nan,Luma,Leather,14.61,46.95,551,3.6,5/27/2025
+634277,Leather Chelsea Boot,Footwear,Columbus,10,White,76238574,Modern Harbor,Nylon,10.91,17.55,,3.4,11/24/2023
+724834,Canvas Slip-On,Footwear,Dallas,500ml,NAN,72820592,aster,Wool,44.21,165.06,11,4.3,8/23/2023
+216970,Trail Hiker,Footwear,Dallas,500ml,Blue,49392920,Drift Co,Polyester,37.04,94.21,739,NULL,6/23/2024
+755674,Everyday Tote,Accessories,,500ml,Pink,50056581,Northline,nan,67.97,181.32,203,3.4,11/27/2023
+439902,Braided Belt,Accessories,Portland,S,White,75579548,Aster,Denim,5.48,19.93,314,3.5,5/8/2024
+955662,WOOL BEANIE,ACCESSORIES,Dallas,M,Red,19289546,Drift Co,Blend,78.33,213.47,128,3.3,8/31/2025
+543692,Ceramic Mug Set,Home,Columbus,11,Silver,38427073,EverTrail,Denim,74.6,241.49,706,3.5,9/30/2024
+642717,Throw Blanket,Home,Portland,L,Black,70597444,Northline,Cotton,13.2,26.62,346,3.1,3/14/2025
+340062,Hydrating Face Serum,Beauty,Atlanta,L,Pink,19046318,Luma,Blend,72.81,253.17,72,4,7/24/2024
+704201,Wireless Earbuds,Electronics,Columbus,One Size,Beige,73440831,Modern Harbor,Denim,22.47,58.15,416,3.4,8/3/2025
+864491,Portable Charger,Electronics,New York,L,Null,17270733,Luma,Plastic,55.18,207.67,100,3.2,Aug 21 2025
+131244,Slim Fit Jeans,Apparel,Austin,8,Tan,22575562,EverTrail,Cotton,20.62,54.9,27,4.1,5/9/2025
+944151,Ribbed Tank Top,Apparel,Austin,11,Navy,52339391,Modern Harbor,Denim,34.49,56.99,580,4.7,10/6/2024
