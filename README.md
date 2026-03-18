@@ -24,5 +24,19 @@ Insights and recommendations are provided across the following key areas:
 - **Revenue Distribution by Product Category and Customer Loyalty Tier**
 - **Product and Brand Return Rate Analysis**
 - **Regional Shipping Performance by Product Category and Customer Segment**
-- **Sales Channel and Payment Method Profit Margin Analysis**
-- **Customer Lifetime Value by Signup Cohort and Product Launch Year**
+
+---
+
+### Supporting Resources
+
+SQL queries regarding data cleaning procedures can be found here:
+**[SQL Data Cleaning Queries](link here)** 
+
+SQL queries regarding business questions can be found here:
+**[SQL Analysis Queries](link here)** 
+
+The raw and clean retail datasets can be found here:
+**[Retail Datasets](link here)**
+
+An interactive Power BI dashboard used to explore trends and insights can be found here:
+**[Power BI Dashboard](link here)**
