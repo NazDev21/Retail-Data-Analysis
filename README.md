@@ -117,7 +117,7 @@ The analysis datasets consists of three primary analytical tables derived from r
 
 Several preprocessing and validation steps were performed before analysis:
 
-* Removed **40 duplicate records across the three files (18 duplicate order IDs in the orders file, 22 duplicate customer IDs in the customers file, and 2 duplicate product IDs in the products file)**
+* Removed **42 duplicate records across the three files (18 duplicate order IDs in the orders file, 22 duplicate customer IDs in the customers file, and 2 duplicate product IDs in the products file)**
 
 * Standardized null representations, which appeared in up to **7 inconsistent forms per field (blank, nan, NAN, Nan, NULL, Null, [null], and None),** and confirmed missing value counts across all fields in each file
 
