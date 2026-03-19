@@ -30,13 +30,13 @@ Insights and recommendations are provided across the following key areas:
 ### Supporting Resources
 
 SQL queries regarding data cleaning procedures can be found here:
-**[SQL Data Cleaning Queries](link here)** 
+**[SQL Data Cleaning Queries](code/)** 
 
 SQL queries regarding business questions can be found here:
-**[SQL Analysis Queries](link here)** 
+**[SQL Analysis Queries](code/retail_customer_sales_analysis)** 
 
 The raw and clean retail datasets can be found here:
-**[Retail Datasets](link here)**
+**[Retail Datasets](data/)**
 
 An interactive Power BI dashboard used to explore trends and insights can be found here:
-**[Power BI Dashboard](link here)**
+**[Power BI Dashboard](linkhere)**
