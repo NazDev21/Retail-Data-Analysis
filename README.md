@@ -157,8 +157,8 @@ For retail leadership, these findings highlight the importance of monitoring **l
 
 ---
 
-### Insights Deep Dive
+# Insights Deep Dive
 
 ---
 
-### Recommendations
+# Recommendations
