@@ -145,6 +145,14 @@ These steps ensured the dataset was clean and suitable for exploratory analysis.
 
 Five key insights emerged from the analysis of customer orders, product performance, and sales operations data:
 
+1. **Apparel is the dominant revenue-generating category across all loyalty tiers**, with Bronze loyalty customers contributing the highest total revenue of $144,786.95 — surpassing Gold and Platinum tiers — suggesting that mid-tier loyalty customers represent a significant and potentially underleveraged revenue segment.
+2. **The Hydrating Face Serum by Luma carries the highest actual return rate at 17%**, while the Classic Crew Tee by Modern Harbor accounts for the highest absolute volume of returns at 67 units — indicating that return risk is driven by both product-specific quality concerns and high-volume exposure.
+3. **The Beauty category exhibits the most volatile shipping performance across all regions**, recording return rates as high as 40% in the Midwest and 100% in the Northeast among VIP customers — pointing to potential fulfillment or product presentation issues that disproportionately affect high-value customer segments.
+4. **Performance Leggings sold Online via Gift Card generate the highest total profit at $20,107.61**, with the Online channel consistently dominating profitability across payment methods — indicating that digital sales paired with prepaid payment instruments yield the strongest margin outcomes.
+5. **Customers who signed up in 2023 and purchased products launched in 2023 show the highest average lifetime value of $913.38 among recent cohorts**, while 2025 signups show the lowest lifetime value at $818.25 — suggesting that customers who engage with contemporary product launches at the time of their signup tend to develop stronger long-term spending relationships.
+
+For retail leadership, these findings highlight the importance of monitoring **loyalty tier revenue distribution, product and category return behavior, regional logistics performance by customer segment, sales channel and payment method profitability, and customer cohort lifetime value** to improve operational efficiency and commercial decision-making.
+
 ---
 
 ### Insights Deep Dive
