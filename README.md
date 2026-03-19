@@ -33,7 +33,7 @@ SQL queries regarding data cleaning procedures can be found here:
 **[SQL Data Cleaning Queries](code/)** 
 
 SQL queries regarding business questions can be found here:
-**[SQL Analysis Queries](code/retail_customer_sales_analysis)** 
+**[SQL Analysis Queries](code/retail_customer_sales_analysis.sql)** 
 
 The raw and clean retail datasets can be found here:
 **[Retail Datasets](data/)**
