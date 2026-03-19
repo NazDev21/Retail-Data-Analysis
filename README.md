@@ -24,6 +24,8 @@ Insights and recommendations are provided across the following key areas:
 - **Revenue Distribution by Product Category and Customer Loyalty Tier**
 - **Product and Brand Return Rate Analysis**
 - **Regional Shipping Performance by Product Category and Customer Segment**
+- **Sales Channel and Payment Method Profit Margin Analysis**
+- **Customer Lifetime Value by Signup Cohort and Product Launch Year**
 
 ---
 
