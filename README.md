@@ -1,11 +1,12 @@
 # Customer & Sales Performance Analysis
 ---
 ## Project Background
-This project analyzes a **simulated real-world retail dataset** to show how a retail organization might evaluate customer purchasing behavior, product performance, sales channel efficiency, and regional shipping operations.
 
-The objective of the analysis is to identify patterns in **revenue generation, product return behavior, and customer lifetime value** that could help retail administrators and business analysts improve operational efficiency and commercial decision-making.
+The objective of this analysis is to identify patterns in **revenue generation, product return behavior, and customer lifetime value** that could help retail administrators and business analysts improve operational efficiency and commercial decision-making.
 
-While the dataset is **simulated**, the analytical workflow mirrors the type of analysis commonly performed by data analysts working within retail and e-commerce organizations. The analysis focuses on understanding how customer loyalty, product categories, sales channels, and regional shipping patterns influence revenue outcomes, profit margins, and long-term customer retention.
+This project applies retail analytics techniques to a **simulated real-world retail dataset** to demonstrate how a retail organization might evaluate customer purchasing behavior, product performance, sales channel efficiency, and regional shipping operations.
+
+The analytical workflow mirrors the type of analysis commonly performed by data analysts working within retail and e-commerce organizations. The analysis focuses on understanding how customer loyalty, product categories, sales channels, and regional shipping patterns influence revenue outcomes, profit margins, and long-term customer retention.
 
 Retail and e-commerce organizations typically monitor several operational and financial metrics when evaluating performance, including:
 
@@ -27,6 +28,9 @@ Insights and recommendations are provided across the following key areas:
 - **Sales Channel and Payment Method Profit Margin Analysis**
 - **Customer Lifetime Value by Signup Cohort and Product Launch Year**
 
+### Tools Used
+
+- SQL and Power BI
 ---
 
 ### Supporting Resources
