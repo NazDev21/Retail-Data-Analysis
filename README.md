@@ -149,3 +149,22 @@ For retail leadership, these findings highlight the importance of monitoring **l
 ---
 
 # Recommendations
+
+Based on the analysis and insights identified above, retail management teams should consider the following actions:
+
+* Re-evaluate the loyalty program structure. Since Bronze loyalty customers are outspending Gold and Platinum tiers, the business should investigate whether the current loyalty program is effectively incentivizing higher spend and retention among its most engaged customers. Introducing tiered rewards that better motivate Bronze customers to progress to higher loyalty tiers could unlock significant additional revenue.
+  
+* Address high return rate products. Products such as the Hydrating Face Serum and Classic Crew Tee should be reviewed for quality issues, sizing accuracy, and product description clarity. Improving product pages with more detailed information and accurate imagery may help reduce return rates and associated operational costs.
+
+* Investigate regional shipping performance. The elevated return rates in the South and Northeast regions, particularly within the Beauty category and among VIP customers, warrant a closer review of regional fulfillment processes, carrier performance, and packaging standards to identify and resolve the root causes of returns.
+  
+* Optimize the sales channel and payment method mix. Given that the Online channel generates more than double the profit of any other channel, the business should prioritize digital marketing investment and online customer acquisition. Additionally, the low profitability of the Marketplace channel should prompt a review of marketplace fees and pricing strategies.
+  
+* Develop targeted onboarding strategies for new customers. Since customers who engage with recently launched products at the time of signup show higher lifetime values, the business should design onboarding campaigns that introduce new customers to the latest product launches immediately upon signup to maximize long term revenue potential.
+  
+* Monitor the 2024 customer cohort closely. The 2024 signup cohort currently shows the lowest average lifetime value at $807. While this may reflect limited time to accumulate purchases, the business should implement targeted retention campaigns for this cohort to improve engagement and lifetime value before it matures.
+* Invest in retail data analytics capabilities. Developing stronger data analytics capabilities across sales, operations, and customer management can support better decision-making related to inventory planning, customer retention, and channel optimization.
+
+---
+
+This project demonstrates how retail data analytics can be used to evaluate customer purchasing behavior, product performance, and sales channel profitability, while illustrating how analytical insights can support operational and financial decision-making in retail and e-commerce organizations.
