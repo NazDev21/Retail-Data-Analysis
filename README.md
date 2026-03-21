@@ -41,10 +41,10 @@ The raw and clean retail datasets can be found here:
 **[Retail Datasets](data/)**
 
 An interactive Power BI dashboard used to explore trends and insights can be found here:
-**[Power BI Dashboard](linkhere)**
+**[Power BI Dashboard](dashboard/)**
 
 ### Dashboard Preview
-![Power BI Dashboard](linkhere)
+![Power BI Dashboard](visuals/overview.png)
 
 ---
 
@@ -109,12 +109,16 @@ For retail leadership, these findings highlight the importance of monitoring **l
 * Gold and Platinum loyalty customers, while generating lower total revenue, likely represent higher value per transaction customers whose long term retention is critical to sustained business performance.
 * Understanding revenue distribution across loyalty tiers helps retail administrators identify which customer segments to prioritize for loyalty program investment and targeted marketing campaigns.
 
+![Revenue Distribution](visuals/revenue_by_product_category_&_loyalty_tier.png)
+
 ## Product and Brand Return Rate Analysis
 
 * The Hydrating Face Serum by Luma carries the highest actual return rate at 17%, indicating a potential product quality or customer expectation mismatch that warrants further investigation by the merchandising team.
 * The Classic Crew Tee by Modern Harbor accounts for the highest absolute volume of returns at 67 units, suggesting that high order volume products require closer monitoring even when their return rate percentage appears moderate.
 * Products with both a high actual return rate and a high average customer returns rate signal a genuine product quality issue, while products with a high average customer returns rate but low actual return rate suggest the product itself is performing well despite attracting return prone customers.
 * Monitoring return behavior at the product and brand level helps retail administrators identify underperforming products, improve product descriptions, and reduce operational costs associated with processing returns.
+
+![Return Rate Analysis](visuals/product_brand_return_rate_analysis.png)
 
 ## Regional Shipping Performance by Product Category and Customer Segment
 
@@ -123,6 +127,8 @@ For retail leadership, these findings highlight the importance of monitoring **l
 * VIP customers consistently show higher return rates compared to New and Returning customers across multiple regions, which is a concerning pattern given that VIP customers represent the highest value segment in the business.
 * Understanding regional shipping performance by product category and customer segment helps retail administrators identify logistics inefficiencies, improve fulfillment processes, and prioritize operational improvements in underperforming regions.
 
+![Regional Shipping Performance](visuals/regional_shipping_performance.png)
+
 ## Sales Channel and Payment Method Profit Margin Analysis
 
 * The Online channel dominates total profit across all payment methods, generating $338,276 in total profit — more than double the next highest channel — confirming that digital sales is the most profitable revenue stream in the business.
@@ -130,12 +136,16 @@ For retail leadership, these findings highlight the importance of monitoring **l
 * The Marketplace channel consistently generates the lowest profit margins across all payment methods and products, suggesting that marketplace fees or pricing strategies may be eroding profitability in that channel.
 * Monitoring profit margins by sales channel and payment method helps retail administrators optimize their channel mix, negotiate better payment processing terms, and focus marketing investment on the most profitable channel and payment combinations.
 
+![Sales Channel & Payment Method](visuals/sales_channel_&_payment_method_profit_analysis.png)
+
 ## Customer Lifetime Value by Signup Cohort and Product Launch Year
 
 * Customers who signed up in 2023 and purchased products launched in 2023 show the highest average lifetime value of $913.38 among recent cohorts, suggesting that customers who engage with contemporary product launches at the time of their signup tend to develop stronger long term spending relationships.
 * The 2024 signup cohort shows the lowest average lifetime value at $807, which may reflect the fact that these customers have had less time to accumulate purchases compared to older cohorts — making it important to monitor this cohort as it matures.
 * Older customer cohorts from 2019 to 2022 demonstrate consistently higher average lifetime values, reinforcing the importance of long term customer retention as a driver of sustained revenue growth.
 * Understanding the relationship between customer signup cohorts, product launch engagement, and lifetime value helps retail administrators design more effective onboarding experiences, target new customers with recently launched products, and build loyalty programs that maximize long term customer value.
+
+![Customer Lifetime Value](visuals/customer_lifetime_value_by_cohort.png)
 ---
 
 # Recommendations
